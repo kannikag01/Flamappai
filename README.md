@@ -23,9 +23,8 @@ Designed using TypeScript
 🔌 Simple API integration to communicate with backend
 
 📷 Screenshots / GIFs
-this is screentshoot of app how it is when oppened
+Camera preview 
 ![ss](https://github.com/user-attachments/assets/3e123df3-8579-416a-94fa-878236e36466)
-This is photo cliclked throught the app 
-![flampai](https://github.com/user-attachments/assets/7e55571b-5bb5-4a8b-81b3-8a78a2759ecd)
+Output 
 
 
