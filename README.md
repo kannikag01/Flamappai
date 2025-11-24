@@ -27,4 +27,6 @@ Camera preview
 ![ss](https://github.com/user-attachments/assets/3e123df3-8579-416a-94fa-878236e36466)
 Output 
 
+![Screenshot](https://raw.githubusercontent.com/kannikag01/Flamappai/main/web/IMG_20251124_083503.jpg)
+
 
