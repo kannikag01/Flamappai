@@ -15,7 +15,7 @@ The Android app captures frames, processes them natively using C++ (JNI), and di
 🟥 Debug overlay showing processed output
 🔤 JNI bridge for sending/receiving frames
 
-🌐 Web Interface(not done completely yet)
+🌐 Web Interface
 
 Designed using TypeScript
 🖼️ View & inspect frames sent from the Android app
